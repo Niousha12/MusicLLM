@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+torchtext
+unidecode
+tqdm
